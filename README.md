@@ -54,4 +54,4 @@
 
 ### Mobile
 
-![image info](./public/design/mobile.png)
+![image info](./public/design/mobile-active-filter.png)
