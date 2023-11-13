@@ -42,7 +42,6 @@
   - Tablet: 950px
   - Mobile: 750px
 
-
 ## Figma design:
 
 ### Desktop
