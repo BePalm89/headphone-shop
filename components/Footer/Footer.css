@@ -1,0 +1,11 @@
+ul.flex-container-row {
+    justify-content: center;
+}
+
+ul img {
+    height: 24px;
+}
+
+p {
+    font-size: var(--font-size-xs);   
+}

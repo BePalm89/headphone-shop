@@ -1,0 +1,66 @@
+.aside-title {
+    background-color: var(--bgn-primary);
+}
+
+.aside-title h3 {
+    text-transform: uppercase;
+    color: var(--text-white);
+}
+
+.filter-container {
+    border: 1px solid var(--secondary-color-light);
+    border-top: none;
+}
+
+
+#max-price-form.flex-container-column {
+    align-items: flex-start;
+    gap: var(--gap-s);
+}
+
+#max-price-form > input {
+    width: 100%;
+    border-radius: var(--border-radius-s);
+    border: 1px solid var(--black-color);
+}
+
+#max-price-form > button {
+    width: 100%;
+    text-transform: uppercase;
+    font-family: inherit;
+    background-color: var(--bgn-secondary);
+    border: none;
+    color: var(--text-white);
+    border-radius: var(--border-radius-s);
+    cursor: pointer;
+}
+
+#sellers {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid var(--black-color);
+}
+
+.active {
+    width: 100%;
+    background-color: var(--bgn-primary);
+    color: var(--text-white);
+    border-radius: var(--border-radius-s);
+    font-size: var(--font-size-xs);
+}
+
+.clear-container {
+    text-align: right;
+}
+
+.clear-container > button {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid var(--text-black);
+    cursor: pointer;
+}
+
+.results {
+    border-bottom: 1px solid var(--black-color);
+}
